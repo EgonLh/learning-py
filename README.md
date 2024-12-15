@@ -9,6 +9,4 @@ Notes For Learning Python
 - Chapter `4`  :  [x]
 - Chapter `5`  :  [x]
 - Chapter `5`  :  [x]
-- Chapter `5`  :  [x]- Chapter `5`  :  [x]- Chapter `5`  :  [x]- Chapter `5`  :  [x]- Chapter `5`  :  [x]
-
-
+- Chapter `5`  :  [x]
