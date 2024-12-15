@@ -20,3 +20,11 @@ elif "B" in alpha:
     print("Nothing ...")
 else:
     print("Just loggin it")
+
+
+
+for a in alpha:
+    if "C"==a:
+        print("Obtained :",a)
+        break
+    print(a)
