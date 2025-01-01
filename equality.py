@@ -12,7 +12,7 @@ print(a or b)
 print("C",c)
 
 
-alpha = ["A","B","C","D"]
+alpha = ["A","B","C","D"] # > list
 
 if "A" in alpha:
     print("Couldn't get lawyers")

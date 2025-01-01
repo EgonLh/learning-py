@@ -14,7 +14,7 @@ print("After Append",nums_copy)
 print("with nums[:] ", nums_copy_2)
 
 foods=  ['coffee','tea','burger','coke'];
-# my_fav_foods = foods.copy();
+# my_fav_foods = foods.copy(); > same as below
 my_fav_foods = foods[:];
 ava_foods = foods;
 

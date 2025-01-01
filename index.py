@@ -35,7 +35,7 @@ print(":"+str_0.strip()+":")
 
 # Avoiding Type Errors with the str() Function
 age =  2;
-print("Hello, your age is " + str(age))
+print("Hello, your age is " + str(age)) # str() to convert the number to string
 
 
 # Follow the guideline of The Zen of Python by Tim Peters

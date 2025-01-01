@@ -73,4 +73,4 @@ print("Reverse" ,names );
 names.reverse()
 print("Origin :",names)
 
-print(len(names))
+print(len(names)) # length of the list

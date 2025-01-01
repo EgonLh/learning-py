@@ -15,4 +15,4 @@ print(players[-1:])
 
 
 for player in players[:2]:
-    print("Name: "+player.title())
+    print("Name: "+player.title()) # title() to capitalize the first letter of each word

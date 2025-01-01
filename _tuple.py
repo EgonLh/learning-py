@@ -6,6 +6,6 @@ print(_tuple)
 print(type(_tuple))
 print(_tuple[0])
 
-# _tuple[0] = 1;
+# _tuple[0] = 1; ## Error: 'tuple' object does not support item assignment > immutable
 
 

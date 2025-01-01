@@ -13,7 +13,7 @@ print("This is end")
 names = ["egon","leessang","gil","gary"]
 
 for name in names:
-    print("Names :",name)
+    print("Names :",name) # > print all names
 
 
 
