@@ -66,4 +66,29 @@ Item_check(1,2,3);
 Item_check(1,2)
 Item_check(a=1,b=2)
 
+
 # Retrun Value
+
+def return_FName(firstName,lastName,middleName=""):
+    return (firstName+" "+middleName+" "+lastName);
+
+print(return_FName("Egon","Loth" ,"Helling").upper())
+print(return_FName("Egon","Loth").upper())
+
+
+
+# Returing Dict
+
+name_dict = [];
+
+def setNameDict(fName,Lname,Mname=""):
+    if Mname:
+        nameDict={'firstName':fName,'MidName':Mname,'lastName':Lname}
+    else :
+        nameDict={'firstName':fName,'lastName':Lname}
+    return nameDict;
+
+person1 = setNameDict('Zay','Htun','Yar')
+print(person1)
+person2 = setNameDict('Zayar','Htun')
+print(person2)
