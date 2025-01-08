@@ -11,4 +11,4 @@ Notes For Learning Python
 - Chapter `6`  :  [x] :`Dictionaries`
 - Chapter `7`  :  [x] :`I/O with While Loops`
 - Chapter `8`  :  [x] :`Functions`
-- Chapter `9`  :  [] :`Classes`
+- Chapter `9`  :  [x] :`Classes`
