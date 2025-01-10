@@ -12,3 +12,5 @@ Notes For Learning Python
 - Chapter `7`  :  [x] :`I/O with While Loops`
 - Chapter `8`  :  [x] :`Functions`
 - Chapter `9`  :  [x] :`Classes`
+- Chapter `10` :  [x] :`Files and Exception`
+- Chapter `11` :  [x] :`Testing The Code`
