@@ -14,3 +14,7 @@ Notes For Learning Python
 - Chapter `9`  :  [x] :`Classes`
 - Chapter `10` :  [x] :`Files and Exception`
 - Chapter `11` :  [x] :`Testing The Code`
+
+> End Book[Part 1:Basic] 
+---------------------------------------------------------------
+
