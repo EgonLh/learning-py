@@ -22,4 +22,12 @@ Notes For Learning Python
 
 > Python For Data Science Handbook
 
-- Chapter 1  :  []
+#### Part I
+
+- Chapter 1 [x]
+- Chapter 2 [x]
+- Chapter 3 [x]
+
+#### Part 2
+
+- Chapter 1 []
