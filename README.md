@@ -24,10 +24,10 @@ Notes For Learning Python
 
 #### Part I
 
-- Chapter 1 [x]
-- Chapter 2 [x]
-- Chapter 3 [x]
+- Chapter `1` :  [x] : Beyond Normal Python
+- Chapter `2` :  [x] : Enhanced Interactive Features
+- Chapter `3` :  [x] : Debugging and Profiling
 
 #### Part 2
 
-- Chapter 1 []
+- Chapter `4` :  [x] : Understanding Data Types in Python
